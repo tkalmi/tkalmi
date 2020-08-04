@@ -4,7 +4,7 @@ I'm a web developer specializing in front end, although I'm always curious to le
 
 - 🇫🇮 Originally from Finland
 - 🇺🇸 Currently living in the USA
-- 💰 For my living I'm currently working at Chartmetric, a music industry data startup based in Silicon Valley
+- 💰 For a living I'm currently working at Chartmetric, a music industry data startup based in Silicon Valley
 - 🌱 Latest tech I've been learning: 3D graphics and game development using <a href="https://www.babylonjs.com/">Babylon.js</a>
 - 📺 Latest TV series I was obsessed with: <a href="https://www.imdb.com/title/tt4063800/">Le Bureau des Légendes</a>
 
