@@ -10,7 +10,7 @@ I'm a web developer specializing in front end, although I'm always curious to le
 
 My favorite sports teams:
 - 🏈 Miami Dolphins and Ohio State Buckeyes
-- 🏒 Turku TPS and Finland National Team
+- 🏒 Turku TPS and Finnish National Team
 - ⚾ San Francisco Giants 
 - 🏀 Whichever team LeBron is currently playing for
 
