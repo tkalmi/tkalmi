@@ -2,11 +2,11 @@
 
 I'm a web developer specializing in front end, although I'm always curious to learn more about all aspects of programming!
 
-- 🇫🇮 Originally from Finland
-- 🇺🇸 Currently living in the USA
-- 💰 For a living I'm currently working at Chartmetric, a music industry data startup based in Silicon Valley
-- 🌱 Latest tech I've been learning: 3D graphics and game development using <a href="https://www.babylonjs.com/">Babylon.js</a>
-- 📺 Latest TV series I was obsessed with: <a href="https://www.imdb.com/title/tt4063800/">Le Bureau des Légendes</a>
+- 🇫🇮 From Finland
+- 💰 Contractor for <a href="https://withcompound.com">Compound</a>
+- 🕰️ Previously worked at Chartmetric and Futurice
+- 🌱 Latest tech I've been learning: GraphQL using <a href="https://www.apollographql.com/">Apollo</a>
+- 📺 Latest TV series I was obsessed with: <a href="https://imdb.com/title/tt10048342/">Queen's Gambit</a>
 
 My favorite sports teams:
 - 🏈 Miami Dolphins and Ohio State Buckeyes
