@@ -3,7 +3,7 @@
 I'm a web developer specializing in front end, although I'm always curious to learn more about all aspects of programming!
 
 - 🇫🇮 From Finland
-- 💰 Contractor for <a href="https://withcompound.com">Compound</a>
+- 💰 Engineer at <a href="https://withcompound.com">Compound</a>
 - 🕰️ Previously worked at Chartmetric and Futurice
 - 🌱 Latest tech I've been learning: GraphQL using <a href="https://www.apollographql.com/">Apollo</a>
 - 📺 Latest TV series I was obsessed with: <a href="https://imdb.com/title/tt10048342/">Queen's Gambit</a>
