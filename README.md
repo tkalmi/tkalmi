@@ -5,7 +5,7 @@ I'm a web developer specializing in front end, although I'm always curious to le
 - 🇫🇮 From Finland
 - 💰 Engineer at <a href="https://withcompound.com">Compound</a>
 - 🕰️ Previously worked at Chartmetric and Futurice
-- 🌱 Latest tech I've been learning: GraphQL using <a href="https://www.apollographql.com/">Apollo</a>
+- 🌱 Latest tech I've been learning: <a href="https://redux-saga.js.org/">Redux-Saga</a>
 - 📺 Latest TV series I was obsessed with: <a href="https://m.imdb.com/title/tt2531336/">Lupin</a>
 
 My favorite sports teams:
