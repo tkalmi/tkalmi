@@ -5,9 +5,9 @@ I'm a web developer specializing in front end, although I'm always curious to le
 - 🇫🇮 From Finland
 - 💰 Engineer at <a href="https://withcompound.com">Compound</a>
 - 🕰️ Previously worked at Chartmetric and Futurice
-- 🌱 Latest tech I've been learning: Cryptos and DeFi
-- 📺 Latest TV series I was obsessed with: <a href="https://www.imdb.com/title/tt10986410/">Ted Lasso</a>
-- 📖 Book I'm reading/listening to: <a href="https://www.goodreads.com/book/show/56269264-the-dawn-of-everything">The Dawn of Everything by David Graeber, David Wengrow</a>
+- 🌱 Latest tech I've been learning: BabylonJS
+- 📺 Latest TV series I was obsessed with: <a href="https://www.imdb.com/title/tt4574334/">Stranger Things, Season 4</a>
+- 📖 Book I'm reading/listening to: <a href="https://www.goodreads.com/book/show/36397369-the-memoirs-of-moominpappa">The Memoirs Of Moominpappa by Tove Jansson</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tomikalmi/">LinkedIn</a>
 - 😄 Pronouns: he/him
 
