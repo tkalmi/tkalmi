@@ -5,9 +5,9 @@ I'm a web developer specializing in front end, although I'm always curious to le
 - 🇫🇮 From Finland
 - 💰 Engineer at <a href="https://withcompound.com">Compound</a>
 - 🕰️ Previously worked at <a href="https://chartmetric.com/">Chartmetric</a> and <a href="https://futurice.com/">Futurice</a>
-- 🌱 Latest tech I've been learning: Framer Motion
-- 📺 Latest TV series I was obsessed with: <a href="https://www.imdb.com/title/tt4786824/">The Crown, Season 5</a>
-- 📖 Book I'm reading/listening to: René Nyberg - Ruotsin ja Venäjän välissä (In Between Sweden and Russia)
+- 🌱 Latest thing I've been studying: Economics
+- 📺 Latest TV series I was obsessed with: <a href="https://m.imdb.com/title/tt14452776/">The Bear</a>
+- 📖 Book I'm reading/listening to: <a href="https://www.goodreads.com/book/show/20518872">Liu Cixin - The Three-Body Problem</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tomikalmi/">LinkedIn</a>
 - 😄 Pronouns: he/him
 
